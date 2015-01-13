@@ -1,3 +1,7 @@
+# Update
+This project has been graciously taken over by the guys at MITRE who are working on the CRITs project. You can find new information about this project on the official CRITs github page: https://github.com/crits/mcrits Special thanks to @mjxg and @wxs for their help and support, and ultimate takeover of this project, they'll do more with it than I could and give it the attention it needs.
+
+
 ### mcrits
 ##### Visualize CRITs IOC's in Maltego
 -------------------------------------------------
